@@ -17,6 +17,10 @@ public class EmployeeDetails {
 		System.out.println("Employee mobile: 8939278836");
 	}
 	
+	private void empId() {
+		System.out.println("Employee id: 1122");
+	}
+	
 	public static void main(String[]  args) {
 		
 		// object
