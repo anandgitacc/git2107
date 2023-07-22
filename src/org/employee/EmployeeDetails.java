@@ -20,6 +20,12 @@ public class EmployeeDetails {
 	private void empLocation() {
 		System.out.println("location: OMR");
 	}
+	private void empId() {
+		System.out.println("Employee id: 1122");
+	}
+//<<<<<<< HEAD
+//=======
+//>>>>>>> 46b285c13b6e3a3f2c2f5a9da209c9906f8a6e12
 	
 	public static void main(String[]  args) {
 		
